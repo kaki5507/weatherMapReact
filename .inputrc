@@ -1,0 +1,4 @@
+"\e[A": previous-history
+"\e[B": next-history
+"\e[C": forward-char
+"\e[D": backward-char
