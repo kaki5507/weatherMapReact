@@ -1,0 +1,15 @@
+/* src/components/LeafletMap/LeafletMap.css */
+
+.map-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Viewport height */
+}
+
+.map {
+  width: 600px;
+  height: 400px;
+  border: 2px solid #333;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
